@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mehul2312
 - 👀 I’m interested in ...CS,Codind,cubing,solving maths,singing.
-- 🌱 I’m currently learning ...engineer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...CSE
 - 📫 How to reach me ...mail- mehulsmusic@gmail.com
 
 <!---
